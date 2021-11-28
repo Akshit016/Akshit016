@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Akshit016
-- 👀 I’m interested in ... learning new things 
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... Python
+- 👋 Hi, I’m Akshit Uriti
+- 👀 I’m interested in ... Python
+- 🌱 I’m currently learning ... Python and Java
+- 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ...email: saiakshit.uriti@gmail.com
 
 <!---
