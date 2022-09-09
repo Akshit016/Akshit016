@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Akshit Uriti
-- 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... Python and Java
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ...email: saiakshit.uriti@gmail.com
+- 👀 I’m interested in ... Web Development, App development, Cloud Development.
+- 🌱 I’m currently learning ... Data Structures and Algorithms in Java
+- 📫 How to reach me ... email:akshit.uriti@gmail.com
 
 <!---
 Akshit016/Akshit016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
