@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshit Uriti
-- 👀 I’m interested in ... Web Development, App development, Cloud Development.
-- 🌱 I’m currently learning ... Data Structures and Algorithms in Java
+- 👀 I’m interested in ... Developing APIs, building real time projects. 
+- 🌱 I’m currently learning ... AWS and GoLang.
 - 📫 How to reach me ... email:akshit.uriti@gmail.com
 
 <!---
