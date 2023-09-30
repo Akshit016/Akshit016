@@ -1,6 +1,6 @@
 # Sai Akshit Uriti
 
-![Profile Picture]([https://link-to-your-profile-picture](https://media.licdn.com/dms/image/D5603AQGQTvEQqJJwqQ/profile-displayphoto-shrink_400_400/0/1688145701206?e=1701302400&v=beta&t=gNVt8OOALly6h2DVkda9eUjUfvbUqx_OubrouyUY3yY))
+![Profile Picture]([https://media.licdn.com/dms/image/D5603AQGQTvEQqJJwqQ/profile-displayphoto-shrink_400_400/0/1688145701206?e=1701302400&v=beta&t=gNVt8OOALly6h2DVkda9eUjUfvbUqx_OubrouyUY3yY])
 
 - **Email:** akshit.uriti@gmail.com
 - **Phone:** +91 8919726054
