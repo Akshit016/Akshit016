@@ -1,12 +1,12 @@
 # Sai Akshit Uriti
 
-![Profile Picture]([https://media.licdn.com/dms/image/D5603AQGQTvEQqJJwqQ/profile-displayphoto-shrink_400_400/0/1688145701206?e=1701302400&v=beta&t=gNVt8OOALly6h2DVkda9eUjUfvbUqx_OubrouyUY3yY])
+![Profile Picture](https://media.licdn.com/dms/image/D5603AQGQTvEQqJJwqQ/profile-displayphoto-shrink_400_400/0/1688145701206?e=1701302400&v=beta&t=gNVt8OOALly6h2DVkda9eUjUfvbUqx_OubrouyUY3yY)
 
 - **Email:** akshit.uriti@gmail.com
 - **Phone:** +91 8919726054
 - **Location:** Hyderabad, India
-- **LinkedIn:** [Sai Akshit Uriti]([https://www.linkedin.com/in/sai-akshit-778451231/])
-- **LeetCode:** [YourLeetCodeProfile]([https://leetcode.com/Sai-Akshit/])
+- **LinkedIn:** [Sai Akshit Uriti](https://www.linkedin.com/in/sai-akshit-778451231/)
+- **LeetCode:** [Sai Akshit](https://leetcode.com/Sai-Akshit/)
 
 ## Summary
 
